@@ -53,6 +53,7 @@
     <module>oak-solr-embedded</module>
     <module>oak-run</module>
     <module>oak-it</module>
+    <module>oak-felix</module>
     <!-- <module>oak-mk-perf</module> -->
   </modules>
 
